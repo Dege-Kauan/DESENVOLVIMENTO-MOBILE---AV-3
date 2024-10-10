@@ -39,6 +39,6 @@
 
 O aplicativo utiliza a **FusedLocationProviderClient** para obter a localização atual do dispositivo e, a partir dessa localização, abre o Google Maps com uma consulta para mercados próximos. Esta funcionalidade requer permissões de localização para acessar a posição do usuário.
 
-
+## Conclusão
 Este `README.md` inclui uma visão geral do aplicativo, tecnologias usadas, instruções de instalação e os critérios de avaliação do projeto, conforme o solicitado.
 
