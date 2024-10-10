@@ -7,6 +7,8 @@
 Confira o vídeo no YouTube:
 [Vídeo do Projeto](https://youtu.be/FJp_ryGKBZY)
 
+OBS: Infelizmente não possuo nenhum celular Android, com isso preciso rodar o aplicativo no emulador e ele não está encontrando a localização, devido a isso não consigo mostrar essa funcionalidade.
+
 ## Funcionalidades
 
 - Adicionar itens à lista de compras (produto e valor).
