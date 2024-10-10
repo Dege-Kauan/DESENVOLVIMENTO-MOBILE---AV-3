@@ -1,5 +1,10 @@
 # Lista Fácil - Aplicativo de Lista de Compras
 
+## Vídeo de funcionalidade
+
+Confira o vídeo no YouTube:
+[Vídeo do Projeto](https://youtu.be/FJp_ryGKBZY)
+
 **Lista Fácil** é um aplicativo mobile desenvolvido para facilitar a criação de listas de compras no supermercado. O aplicativo permite ao usuário adicionar, editar e remover itens de uma lista, calcular o total da compra, e oferece uma interface amigável e visualmente atrativa, com um fundo temático de supermercado.
 
 ## Funcionalidades
